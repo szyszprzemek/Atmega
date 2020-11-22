@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/workspace/MINGW/delimiter=;
+environment/workspace/MINGW/operation=append
+environment/workspace/MINGW/value=${Path}
+environment/workspace/append=true
+environment/workspace/appendContributed=true
